@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  chat
+
+  Created by Гидаят Джанаева on 03.07.2024.
+  
+*/
+
+"greeting" = "Welcome
+to Freechat";
+"logInButton" = "Log In";
+"signUpButton" = "Sign Up";
+"email" = "Email";
+"pass" = "Password";
+"forgoBtn" = "Forgot Password?";
+"dntHaveAcc" = "Don't have an account?";
+"titleLogIn" = "Log In";
+"titleSignUp" = "Sign Up";
+"nameText" = "Name";
+"confirmPass" = "Confirm password";
+"labelHaveAcc" = "Already have an account?";
+"oops" = "Oops!";
+"hooray" = "Hooray!";
+"alertConfirmEmail" = "Confirm your email and you can log in";
+"alertNotVerified" = "You are not verified, a message has been sent to your email";
+"alertIncorrect" = "Email or password is incorrect";
+"tabTextFriends" = "Friends";
+"tabTextMessages" = "Messages";
+"tabTextSettings" = "Settings";
+"searchPlaceholder" = "Search...";
+"changeName" = "Change your name";
+"enterNewName" = "Enter new name";
+"namePlaceholder" = "Name";
+"alertCancel" = "Cancel";
+"alertSave" = "Save";
+"btnLogOut" = "Log Out";
+"alertLogOut" = "Are you sure you want to log out?";
+"alertYes" = "Yes";

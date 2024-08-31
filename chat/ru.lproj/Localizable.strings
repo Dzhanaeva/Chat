@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  chat
+
+  Created by Гидаят Джанаева on 03.07.2024.
+  
+*/
+
+"greeting" = "Приветствуем
+во FreeChat";
+"logInButton" = "Войти";
+"signUpButton" = "Зарегистрироваться";
+"email" = "Email";
+"pass" = "Пароль";
+"forgoBtn" = "Забыли пароль?";
+"dntHaveAcc" = "Нет аккаунта?";
+"titleLogIn" = "Вход";
+"titleSignUp" = "Регистрация";
+"nameText" = "Имя";
+"confirmPass" = "Повторить пароль";
+"labelHaveAcc" = "Уже есть аккаунт?";
+"oops" = "Упс!";
+"hooray" = "Ура!";
+"alertConfirmEmail" = "Подтвердите ваш email и можете входить";
+"alertNotVerified" = "Вы не верифицировались, на вашу почту отправлено сообщение";
+"alertIncorrect" = "Email или пароль не верны";
+"tabTextFriends" = "Друзья";
+"tabTextMessages" = "Сообщения";
+"tabTextSettings" = "Настройки";
+"searchPlaceholder" = "Поиск...";
+"changeName" = "Поменяйте свое имя";
+"enterNewName" = "Впишите новое имя";
+"namePlaceholder" = "Имя";
+"alertCancel" = "Отмена";
+"alertSave" = "Сохранить";
+"btnLogOut" = "Выйти";
+"alertLogOut" = "Вы уверены что хотите выйти?";
+"alertYes" = "Да";
